@@ -1,0 +1,3 @@
+[submodule "src/NexusPlugins"]
+	path = src/NexusPlugins
+	url = git@github.com:theminespress/nplugins.git
