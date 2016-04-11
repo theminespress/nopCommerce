@@ -103,6 +103,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payeezy.WebApi", "NexusPlug
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nexus.Plugin.Enhancement.ProductFeed", "NexusPlugins\Nexus.Plugin.Enhancement.ProductFeed\Nexus.Plugin.Enhancement.ProductFeed.csproj", "{D0115F0C-06C4-4DB3-8672-7B6C071D0093}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nexus.Plugin.Enhancement.SearchOverrides", "NexusPlugins\Nexus.Plugin.Enhancement.SearchOverrides\Nexus.Plugin.Enhancement.SearchOverrides.csproj", "{B81B4211-1E1B-4B6A-BC5B-C8AA83E8C2B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -581,6 +583,18 @@ Global
 		{D0115F0C-06C4-4DB3-8672-7B6C071D0093}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{D0115F0C-06C4-4DB3-8672-7B6C071D0093}.Release|x86.ActiveCfg = Release|Any CPU
 		{D0115F0C-06C4-4DB3-8672-7B6C071D0093}.Release|x86.Build.0 = Release|Any CPU
+		{B81B4211-1E1B-4B6A-BC5B-C8AA83E8C2B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B81B4211-1E1B-4B6A-BC5B-C8AA83E8C2B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B81B4211-1E1B-4B6A-BC5B-C8AA83E8C2B6}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{B81B4211-1E1B-4B6A-BC5B-C8AA83E8C2B6}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{B81B4211-1E1B-4B6A-BC5B-C8AA83E8C2B6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B81B4211-1E1B-4B6A-BC5B-C8AA83E8C2B6}.Debug|x86.Build.0 = Debug|Any CPU
+		{B81B4211-1E1B-4B6A-BC5B-C8AA83E8C2B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B81B4211-1E1B-4B6A-BC5B-C8AA83E8C2B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B81B4211-1E1B-4B6A-BC5B-C8AA83E8C2B6}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{B81B4211-1E1B-4B6A-BC5B-C8AA83E8C2B6}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{B81B4211-1E1B-4B6A-BC5B-C8AA83E8C2B6}.Release|x86.ActiveCfg = Release|Any CPU
+		{B81B4211-1E1B-4B6A-BC5B-C8AA83E8C2B6}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -631,6 +645,7 @@ Global
 		{CE8135D6-4286-43E1-AFCE-30571CEB9666} = {D8048381-F068-4F02-A748-C3D1F1327423}
 		{6A2CC8B0-99CF-4A33-BBEE-8B9D455217E9} = {D8048381-F068-4F02-A748-C3D1F1327423}
 		{D0115F0C-06C4-4DB3-8672-7B6C071D0093} = {D8048381-F068-4F02-A748-C3D1F1327423}
+		{B81B4211-1E1B-4B6A-BC5B-C8AA83E8C2B6} = {D8048381-F068-4F02-A748-C3D1F1327423}
 	EndGlobalSection
 	GlobalSection(NDepend) = preSolution
 		Project = ".\NopCommerce.ndproj"
