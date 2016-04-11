@@ -105,6 +105,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nexus.Plugin.Enhancement.Pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nexus.Plugin.Enhancement.SearchOverrides", "NexusPlugins\Nexus.Plugin.Enhancement.SearchOverrides\Nexus.Plugin.Enhancement.SearchOverrides.csproj", "{B81B4211-1E1B-4B6A-BC5B-C8AA83E8C2B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nexus.Plugin.Integration.Cloudinary", "NexusPlugins\Nexus.Plugin.Integration.Cloudinary\Nexus.Plugin.Integration.Cloudinary.csproj", "{95155729-2FEE-49D2-A31A-FB68ECD1D766}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -595,6 +597,18 @@ Global
 		{B81B4211-1E1B-4B6A-BC5B-C8AA83E8C2B6}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{B81B4211-1E1B-4B6A-BC5B-C8AA83E8C2B6}.Release|x86.ActiveCfg = Release|Any CPU
 		{B81B4211-1E1B-4B6A-BC5B-C8AA83E8C2B6}.Release|x86.Build.0 = Release|Any CPU
+		{95155729-2FEE-49D2-A31A-FB68ECD1D766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95155729-2FEE-49D2-A31A-FB68ECD1D766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95155729-2FEE-49D2-A31A-FB68ECD1D766}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{95155729-2FEE-49D2-A31A-FB68ECD1D766}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{95155729-2FEE-49D2-A31A-FB68ECD1D766}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{95155729-2FEE-49D2-A31A-FB68ECD1D766}.Debug|x86.Build.0 = Debug|Any CPU
+		{95155729-2FEE-49D2-A31A-FB68ECD1D766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95155729-2FEE-49D2-A31A-FB68ECD1D766}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95155729-2FEE-49D2-A31A-FB68ECD1D766}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{95155729-2FEE-49D2-A31A-FB68ECD1D766}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{95155729-2FEE-49D2-A31A-FB68ECD1D766}.Release|x86.ActiveCfg = Release|Any CPU
+		{95155729-2FEE-49D2-A31A-FB68ECD1D766}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -646,6 +660,7 @@ Global
 		{6A2CC8B0-99CF-4A33-BBEE-8B9D455217E9} = {D8048381-F068-4F02-A748-C3D1F1327423}
 		{D0115F0C-06C4-4DB3-8672-7B6C071D0093} = {D8048381-F068-4F02-A748-C3D1F1327423}
 		{B81B4211-1E1B-4B6A-BC5B-C8AA83E8C2B6} = {D8048381-F068-4F02-A748-C3D1F1327423}
+		{95155729-2FEE-49D2-A31A-FB68ECD1D766} = {D8048381-F068-4F02-A748-C3D1F1327423}
 	EndGlobalSection
 	GlobalSection(NDepend) = preSolution
 		Project = ".\NopCommerce.ndproj"
