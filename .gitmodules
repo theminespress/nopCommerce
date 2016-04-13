@@ -1,0 +1,5 @@
+[submodule "src/NexusPlugins"]
+	path = src/NexusPlugins
+	url = git@github.com:theminespress/nplugins.git
+	branch = version-3.60
+	fetchRecurseSubmodules = true
